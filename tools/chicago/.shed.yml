@@ -1,0 +1,9 @@
+name: chicago
+owner: bgruening
+description: The CHiCAGO-Pipeline from the Regulatory Genomics Group, Babraham Institute.
+
+long_description: A galaxy wrapper implementation of the CHiCAGO-Pipeline from the Regulatory Genomics Group, Babraham Institute. See http://regulatorygenomicsgroup.org/chicago
+  
+categories:
+  - Epigenetics
+remote_repository_url: https://github.com/joachimwolff/galaxytools/tree/chicago/tools/chicago
